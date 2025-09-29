@@ -1,0 +1,91 @@
+Corporate Travel Policy Template
+
+1. Objective
+Define guidelines and processes for business travel worldwide to ensure compliance, cost control, employee safety, and convenience.
+
+2. Scope
+Applicable to all employees, consultants, and contractors traveling domestically and internationally for official business.
+
+3. Definitions
+- Employees: Individuals engaged under contract, including consultants.
+- Travel Team: Unit responsible for travel bookings and compliance.
+- Per Diem: Daily allowance covering meals, lodging, and incidentals.
+- Flight Classes: Economy standard; upgrades subject to policy and approval.
+
+4. Roles and Responsibilities
+- Approvers: Ensure compliance, approve travel and expenses.
+- Employees: Follow policy, submit info and claims timely.
+- Travel Team: Manage arrangements and cost oversight.
+- Finance/HR: Process claims, ensure tax compliance.
+
+5. Travel Booking and Process
+- Submit travel plans minimum 14 days (domestic), 21 days (international) before travel.
+- Economy class default; upgrades at own cost or approved by grade-related authority.
+- Notify promptly of cancellations or changes.
+- Excess baggage reimbursed only for official heavy/bulky materials.
+
+6. Grades and Entitlements
+
+Grade Band       | Travel Entitlements                                            | Flight Class & Upgrades                                   | Per Diem (Domestic)       | Per Diem (International)                             | Accommodation                          | Approval Required                     
+-----------------|---------------------------------------------------------------|----------------------------------------------------------|---------------------------|-----------------------------------------------------|--------------------------------------|-------------------------------------
+GG1 to GG5       | Train (up to 600 km AC classes), AC Sleeper Bus, Economy flight | Economy only; upgrades at employee cost                   | INR 1,000 per day          | Region-based USD 35-50 per day                        | Company hotels or approved own stay  | Reporting Head / Department Manager 
+GG6              | Higher train classes; car travel with approval; Economy, Econ Plus flights (>6 hrs)* | Economy default; Economy Plus upgrades >6 hrs with approval | Actual expenses           | Per diem as per region                               | Company hotels or approved own stay  | Department Director / Senior Manager
+GG7 and above    | Economy default; upgrades require senior approval              | Economy default; Comfort/Economy Plus require approval   | Actual expenses            | Higher regional per diem                             | Preferred company hotels             | Senior Leadership (CEO/COO)         
+
+*Medical exceptions require certification.
+
+7. Detailed Entitlements
+
+7.1 Mode of Travel
+- Domestic preference for train (1AC/2AC/3AC), bus, car with approval.
+- Air travel Economy with possible upgrades under conditions.
+- Airport transfer reimbursed actuals within 50 km.
+
+7.2 Per Diem
+- Covers lodging, meals, laundry, local conveyance, incidentals (excluding entertainment).
+- Flat rates by domestic grade; international varying by region and destination.
+- Stay with family/friends: higher flat per diem, no other reimbursements.
+
+7.3 Accommodation
+- Company arranged hotels, subject to grade and availability.
+- Own arrangements require prior approval, with flat per diem applied.
+- Extensions require minimum 72 hrs notice.
+
+8. International Travel Destinations and Per Diem Rates
+
+Region    | Countries Included                                         | Per Diem (Own Arrangements) | Per Diem (Company-provided) | Currency     
+---------|-----------------------------------------------------------|-----------------------------|-----------------------------|--------------
+Region I  | USA, Canada, Japan, Hong Kong, South America               | 100 USD                     | 50 USD                      | USD          
+Region II | Germany, France, UK, Italy, Spain, Netherlands, Switzerland | 100 EUR                     | 50 EUR                      | EUR          
+Region III| Singapore, Malaysia, Thailand, Indonesia                   | 140 SGD                     | 70 SGD                      | SGD          
+Region IV | Australia, New Zealand                                     | 120 AUD                     | 60 AUD                      | AUD          
+Region V  | UAE, Bahrain, Saudi Arabia, Kuwait                         | 280 AED                     | 140 AED                     | AED          
+Region VI | South Africa                                              | 1400 ZAR                    | 700 ZAR                     | ZAR          
+Region VII| India                                                    | 2000 INR                    | 1000 INR                    | INR          
+
+- For multi-country trips, per diem corresponds to time spent per country.
+- Per diem covers food, lodging, laundry, local transit, incidentals.
+- Entertainment expenses require senior executive approval.
+
+9. Approval Matrix
+
+Travel Type       | Grade Band       | Approving Authority                        
+-----------------|------------------|-------------------------------------------
+Domestic Travel    | GG1 - GG5        | Reporting Head / Department Manager       
+                   | GG6              | Department Director / Senior Manager      
+                   | GG7+             | Senior Leadership (CEO/COO)                
+International Travel| GG1 - GG5       | Reporting Head / Department Manager       
+                   | GG6+             | Senior Leadership (CEO/COO)                
+Exceptions         | All Grades       | Senior Leadership or HR Director           
+
+10. Expense Claims and Compliance
+- Claims submitted within 7 working days with receipts.
+- Pending claims block further advances.
+- Fraudulent claims result in strict disciplinary action.
+
+11. International Travel Additional Guidelines
+- Visa/work permit processed through Travel Team with manager approvals.
+- Medical insurance provided; extensions communicated in advance.
+- Telephone reimbursement capped with prior approval.
+- Formal attire allowance available for international travel (up to INR 7,500 for GG1-3).
+- Dependents travel allowed only for assignments exceeding 1 year, subject to approval.
